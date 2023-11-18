@@ -1,12 +1,24 @@
-## Hi there 👋
+# Pew's Cavern
 
-<!--
+![Pew's Cavern Logo](https://avatars.githubusercontent.com/u/129468397?s=400&u=c11de85b185e991bd9219e53c00815abc8b2a020&v=4)
 
-**Here are some ideas to get you started:**
+## Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Pew's Cavern is a GitHub organization that started as a Discord server for freelancing and has grown into a collaborative space for significant projects.
+
+### Key Projects
+
+#### Produtos do Futuro
+
+Explore opções educacionais e profissionais em TI, Design, Marketing, Nutrição, Audiovisuais, Publicidade e Jornalismo. Organizado para facilitar a busca por empregos em cursos específicos.
+
+[Produtos do Futuro Repository](https://github.com/Pews-Cavern/Produtos-Do-Futuro) 
+
+#### Elvira
+
+Elvira is a launcher application developed to enhance the smartphone experience for the elderly. The application features a user-friendly interface and functionalities tailored to the specific needs of this demographic.
+
+[Link to Elvira Repository](https://github.com/Pews-Cavern/Elvira)
+
+## Collaborate with Us
+
