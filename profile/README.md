@@ -1,32 +1,33 @@
 # Pew's Cavern
 
+### 🧠 Sobre o Projeto
 
-### Overview
+**Pew’s Cavern** é uma organização no GitHub que começou como um servidor de Discord voltado para freelas e devaneios técnicos, e evoluiu para um hub de projetos pessoais, experimentações open source e repositório oficial dos meus Projetos Integradores (PIs) da faculdade.
 
-Pew's Cavern is a GitHub organization that started as a Discord server for freelancing and has grown into a collaborative space for significant projects.
+Aqui nascem ideias com propósito, foco em acessibilidade, tecnologia centrada em pessoas — e uma dose generosa de teimosia funcional.
 
-### Key Projects
+---
 
-#### Produtos do Futuro
+### 📌 Projeto em Destaque
 
-Explore opções educacionais e profissionais em TI, Design, Marketing, Nutrição, Audiovisuais, Publicidade e Jornalismo. Organizado para facilitar a busca por empregos em cursos específicos.
+#### [Elvira](https://github.com/Pews-Cavern/Elvira)
 
-[Produtos do Futuro Repository](https://github.com/Pews-Cavern/Produtos-Do-Futuro) 
+**Elvira** é um launcher para Android feito especialmente para idosos. Oferece uma interface simples, clara e acolhedora, com funcionalidades como assistente offline, leitura de notificações, lembretes de medicamentos e suporte a comandos de voz — tudo pensado para oferecer autonomia e dignidade digital.
 
-#### Elvira
+---
 
-Elvira is a launcher application developed to enhance the smartphone experience for the elderly. The application features a user-friendly interface and functionalities tailored to the specific needs of this demographic.
+### 🤝 Como Contribuir
 
-[Link to Elvira Repository](https://github.com/Pews-Cavern/Elvira)
+Se quiser contribuir com algum projeto da organização:
 
-## Collaborate with Us
+1. Faça um fork do repositório.
+2. Clone o fork para sua máquina local.
+3. Crie uma nova branch: `git checkout -b sua-feature`.
+4. Faça as alterações desejadas.
+5. Commit suas mudanças: `git commit -m 'Descreva o que fez'`.
+6. Faça push para seu fork: `git push origin sua-feature`.
+7. Abra um Pull Request para revisão.
 
-If you're interested in contributing to Pew's Cavern, follow these steps:
+---
 
-1. Fork the repository.
-2. Clone the forked repository to your local machine.
-3. Create a new branch for your feature: `git checkout -b feature-name`.
-4. Make your changes and commit them: `git commit -m 'Description of changes'`.
-5. Push the changes to your fork: `git push origin feature-name`.
-6. Open a pull request on the Pew's Cavern repository.
-
+> Aqui ninguém promete genialidade. Mas propósito tem de sobra.
